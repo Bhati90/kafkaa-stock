@@ -1,0 +1,4 @@
+venv/
+kafka-stock-market.pem
+kafka\kafka-stock.pem
+setupcode
